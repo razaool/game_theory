@@ -163,7 +163,3 @@ Contributions are welcome! Areas for improvement:
 ## 📄 License
 
 This project is open source and available under the MIT License.
-
----
-
-**Created by**: Exploring the fascinating intersection of game theory, economics, and artificial intelligence through computational methods and beautiful visualizations.
