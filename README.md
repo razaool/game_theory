@@ -2,11 +2,11 @@
 
 A comprehensive exploration of game theory concepts, from classical models to modern multi-agent reinforcement learning implementations.
 
-## 📚 Project Overview
+## Project Overview
 
 This repository demonstrates the fundamental principles of game theory through interactive Jupyter notebooks, combining theoretical analysis with computational simulations and visualizations.
 
-## 🎯 Notebooks Implemented
+## Notebooks Implemented
 
 ### 1. **Prisoner's Dilemma** (`prisoners_dilemma.ipynb`)
 **Introduction to Game Theory**
@@ -59,7 +59,7 @@ This repository demonstrates the fundamental principles of game theory through i
   - Performance comparison with theoretical predictions
   - Six-panel visualization showing learning dynamics
 
-## 🎨 Visual Design
+## Visual Design
 
 All notebooks feature the **Rose Pine Dawn** matplotlib theme, providing:
 - Light, warm backgrounds for excellent readability
@@ -67,7 +67,7 @@ All notebooks feature the **Rose Pine Dawn** matplotlib theme, providing:
 - Consistent aesthetic across all visualizations
 - High contrast for printed materials
 
-## 🔬 Key Research Questions Explored
+## Key Research Questions Explored
 
 1. **Can AI agents discover Nash equilibria without knowing the theory?**
 2. **How do learning algorithms compare to theoretical predictions?**
@@ -75,7 +75,7 @@ All notebooks feature the **Rose Pine Dawn** matplotlib theme, providing:
 4. **How does the number of firms affect market outcomes?**
 5. **Why do Cournot and Bertrand models produce different results?**
 
-## 📊 Technical Implementation
+## Technical Implementation
 
 ### **Mathematical Foundations**
 - Linear demand functions: Q = a - bP
@@ -95,7 +95,7 @@ All notebooks feature the **Rose Pine Dawn** matplotlib theme, providing:
 - Multi-panel layouts for comprehensive analysis
 - Interactive elements for exploration
 
-## 🚀 Getting Started
+## Getting Started
 
 ### **Prerequisites**
 ```bash
@@ -111,7 +111,7 @@ pip install numpy matplotlib seaborn pandas
 ### **Installation of Rose Pine Theme**
 The notebooks automatically install the Rose Pine matplotlib theme for beautiful visualizations.
 
-## 📈 Results and Insights
+## Results and Insights
 
 ### **Theoretical Validation**
 - Learning agents successfully discover Nash equilibria
@@ -128,7 +128,7 @@ The notebooks automatically install the Rose Pine matplotlib theme for beautiful
 - **Bertrand**: Intense competition, zero economic profits
 - **Learning**: Agents can discover optimal strategies without prior knowledge
 
-## 🔮 Future Extensions
+## Future Extensions
 
 ### **Potential Additions**
 - **Advanced MARL**: Deep Q-Networks, Actor-Critic methods
@@ -143,7 +143,7 @@ The notebooks automatically install the Rose Pine matplotlib theme for beautiful
 - Market making and pricing optimization
 - Multi-agent resource allocation
 
-## 📚 Educational Value
+## Educational Value
 
 This project serves as:
 - **Undergraduate/Graduate Course Material**: Comprehensive game theory education
@@ -151,7 +151,7 @@ This project serves as:
 - **Interactive Learning**: Hands-on exploration of economic concepts
 - **Visual Learning**: Beautiful plots enhance understanding
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Areas for improvement:
 - Additional game types (Stackelberg, Hotelling, etc.)
@@ -160,6 +160,6 @@ Contributions are welcome! Areas for improvement:
 - Performance optimizations
 - Documentation enhancements
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
